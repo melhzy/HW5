@@ -1,0 +1,9 @@
+C:\Users\Mel\Dropbox\HU\ISEM-551-50\HW5\HW5_WCFService\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Mel\Dropbox\HU\ISEM-551-50\HW5\HW5_WCFService\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Mel\Dropbox\HU\ISEM-551-50\HW5\HW5_WCFService\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Mel\Dropbox\HU\ISEM-551-50\HW5\HW5_WCFService\BusinessLayer\bin\Debug\ModelsLayer.dll
+C:\Users\Mel\Dropbox\HU\ISEM-551-50\HW5\HW5_WCFService\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Mel\Dropbox\HU\ISEM-551-50\HW5\HW5_WCFService\BusinessLayer\bin\Debug\ModelsLayer.pdb
+C:\Users\Mel\Dropbox\HU\ISEM-551-50\HW5\HW5_WCFService\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Mel\Dropbox\HU\ISEM-551-50\HW5\HW5_WCFService\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Mel\Dropbox\HU\ISEM-551-50\HW5\HW5_WCFService\BusinessLayer\obj\Debug\BusinessLayer.pdb

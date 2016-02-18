@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="8b2cf1a9-1986-481d-9257-ab59db78c0b7" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:57569/InformationService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="InformationService.wsdl" MetadataType="Wsdl" ID="bbc3a7cc-adf9-45d3-850d-ad51e58cb2ad" SourceId="1" SourceUrl="http://localhost:57569/InformationService.svc?wsdl" />
+    <MetadataFile FileName="InformationService.xsd" MetadataType="Schema" ID="b84eb872-455d-4591-a849-ce54534e61fb" SourceId="1" SourceUrl="http://localhost:57569/InformationService.svc?xsd=xsd0" />
+    <MetadataFile FileName="InformationService1.xsd" MetadataType="Schema" ID="a2e1d411-f009-4622-b34c-c1a0aeaa462e" SourceId="1" SourceUrl="http://localhost:57569/InformationService.svc?xsd=xsd2" />
+    <MetadataFile FileName="InformationService.disco" MetadataType="Disco" ID="c0b93086-2ad5-4f40-a5b8-8d18d63e9481" SourceId="1" SourceUrl="http://localhost:57569/InformationService.svc?disco" />
+    <MetadataFile FileName="InformationService2.xsd" MetadataType="Schema" ID="422c2451-701e-4a70-8a7d-9d5814892c53" SourceId="1" SourceUrl="http://localhost:57569/InformationService.svc?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

@@ -18,7 +18,14 @@ namespace BusinessLayer
 
             DataSet dsGetEmpInfo = new DataSet();
 
-            dsGetEmpInfo = DataAccessInformation.GetEmpInfoUsingDBWithOutConfig();
+            var webService = new InformationService.InformationServiceClient();
+
+            //dsGetEmpInfo = DataAccessInformation.GetEmpInfoUsingDBWithOutConfig();
+            //dsGetEmpInfo = DataAccessInformation.GetEmpInfoUsingDBWithConfig();
+            
+            //using web service to get db data;
+            dsGetEmpInfo = webService.GetDemographicsUsingDBWithOutConfig();
+            //dsGetEmpInfo = webService.GetDemographicsUsingDBWithConfig();
 
             if (dsGetEmpInfo.Tables.Count>0)
             {

@@ -2,3 +2,7 @@ C:\Users\Mel\Dropbox\HU\ISEM-551-50\HW5\HW5_WCFService\ModelsLayer\bin\Debug\Mod
 C:\Users\Mel\Dropbox\HU\ISEM-551-50\HW5\HW5_WCFService\ModelsLayer\bin\Debug\ModelsLayer.pdb
 C:\Users\Mel\Dropbox\HU\ISEM-551-50\HW5\HW5_WCFService\ModelsLayer\obj\Debug\ModelsLayer.dll
 C:\Users\Mel\Dropbox\HU\ISEM-551-50\HW5\HW5_WCFService\ModelsLayer\obj\Debug\ModelsLayer.pdb
+C:\Users\Mel\Dropbox\HU\ISEM-551-50\NoSourceControl\HW5_WCFService\ModelsLayer\bin\Debug\ModelsLayer.dll
+C:\Users\Mel\Dropbox\HU\ISEM-551-50\NoSourceControl\HW5_WCFService\ModelsLayer\bin\Debug\ModelsLayer.pdb
+C:\Users\Mel\Dropbox\HU\ISEM-551-50\NoSourceControl\HW5_WCFService\ModelsLayer\obj\Debug\ModelsLayer.dll
+C:\Users\Mel\Dropbox\HU\ISEM-551-50\NoSourceControl\HW5_WCFService\ModelsLayer\obj\Debug\ModelsLayer.pdb

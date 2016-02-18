@@ -8,3 +8,13 @@ C:\Users\Mel\Dropbox\HU\ISEM-551-50\HW5\HW5_WCFService\InformationService\bin\Da
 C:\Users\Mel\Dropbox\HU\ISEM-551-50\HW5\HW5_WCFService\InformationService\bin\ModelsLayer.dll
 C:\Users\Mel\Dropbox\HU\ISEM-551-50\HW5\HW5_WCFService\InformationService\bin\DataAccessLayer.pdb
 C:\Users\Mel\Dropbox\HU\ISEM-551-50\HW5\HW5_WCFService\InformationService\bin\ModelsLayer.pdb
+C:\Users\Mel\Dropbox\HU\ISEM-551-50\NoSourceControl\HW5_WCFService\InformationService\bin\InformationService.dll.config
+C:\Users\Mel\Dropbox\HU\ISEM-551-50\NoSourceControl\HW5_WCFService\InformationService\bin\InformationService.dll
+C:\Users\Mel\Dropbox\HU\ISEM-551-50\NoSourceControl\HW5_WCFService\InformationService\bin\InformationService.pdb
+C:\Users\Mel\Dropbox\HU\ISEM-551-50\NoSourceControl\HW5_WCFService\InformationService\bin\DataAccessLayer.dll
+C:\Users\Mel\Dropbox\HU\ISEM-551-50\NoSourceControl\HW5_WCFService\InformationService\bin\ModelsLayer.dll
+C:\Users\Mel\Dropbox\HU\ISEM-551-50\NoSourceControl\HW5_WCFService\InformationService\bin\DataAccessLayer.pdb
+C:\Users\Mel\Dropbox\HU\ISEM-551-50\NoSourceControl\HW5_WCFService\InformationService\bin\ModelsLayer.pdb
+C:\Users\Mel\Dropbox\HU\ISEM-551-50\NoSourceControl\HW5_WCFService\InformationService\obj\Debug\InformationService.csprojResolveAssemblyReference.cache
+C:\Users\Mel\Dropbox\HU\ISEM-551-50\NoSourceControl\HW5_WCFService\InformationService\obj\Debug\InformationService.dll
+C:\Users\Mel\Dropbox\HU\ISEM-551-50\NoSourceControl\HW5_WCFService\InformationService\obj\Debug\InformationService.pdb

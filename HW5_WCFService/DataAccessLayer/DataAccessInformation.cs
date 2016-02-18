@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using System.Data;
 using System.Data.SqlClient;
 using System.Configuration;
+using System.Web;
 
 namespace DataAccessLayer
 {
@@ -21,7 +22,12 @@ namespace DataAccessLayer
             DataTable dt = new DataTable();
             DataSet dsGetEmpInfo = new DataSet();
 
-            string cs = ConfigurationManager.ConnectionStrings["DefaultConnection"].ConnectionString;
+            //string cs = ConfigurationManager.ConnectionStrings["DemographicsConnection"].ConnectionString;
+
+            var num = ConfigurationManager.ConnectionStrings.Count;
+
+            var cs = ConfigurationManager.ConnectionStrings["EmpInfoConnection"].ConnectionString;
+            
             cnn = new SqlConnection(cs);
             sql = "Select * from IndividualDemographics";
 

@@ -2,3 +2,7 @@ C:\Users\Mel\Dropbox\HU\ISEM-551-50\HW5\HW5_WCFService\DataAccessLayer\bin\Debug
 C:\Users\Mel\Dropbox\HU\ISEM-551-50\HW5\HW5_WCFService\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
 C:\Users\Mel\Dropbox\HU\ISEM-551-50\HW5\HW5_WCFService\DataAccessLayer\obj\Debug\DataAccessLayer.dll
 C:\Users\Mel\Dropbox\HU\ISEM-551-50\HW5\HW5_WCFService\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Mel\Dropbox\HU\ISEM-551-50\NoSourceControl\HW5_WCFService\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Mel\Dropbox\HU\ISEM-551-50\NoSourceControl\HW5_WCFService\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Mel\Dropbox\HU\ISEM-551-50\NoSourceControl\HW5_WCFService\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Mel\Dropbox\HU\ISEM-551-50\NoSourceControl\HW5_WCFService\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

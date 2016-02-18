@@ -6,6 +6,7 @@ using System.ServiceModel;
 using System.Text;
 using System.Data;
 using DataAccessLayer;
+using ModelsLayer;
 
 namespace InformationService
 {
