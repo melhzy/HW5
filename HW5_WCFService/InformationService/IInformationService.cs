@@ -12,9 +12,6 @@ namespace InformationService
     [ServiceContract]
     public interface IInformationService
     {
-        [OperationContract]
-        //void DoWork();
-        DataSet GetDemographicsWithOutDB();
 
         [OperationContract]
         DataSet GetDemographicsUsingDBWithConfig();

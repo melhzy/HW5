@@ -4,3 +4,7 @@ C:\Users\Mel\Dropbox\HU\ISEM-551-50\HW5\HW5_WCFService\InformationService\bin\In
 C:\Users\Mel\Dropbox\HU\ISEM-551-50\HW5\HW5_WCFService\InformationService\obj\Debug\InformationService.csprojResolveAssemblyReference.cache
 C:\Users\Mel\Dropbox\HU\ISEM-551-50\HW5\HW5_WCFService\InformationService\obj\Debug\InformationService.dll
 C:\Users\Mel\Dropbox\HU\ISEM-551-50\HW5\HW5_WCFService\InformationService\obj\Debug\InformationService.pdb
+C:\Users\Mel\Dropbox\HU\ISEM-551-50\HW5\HW5_WCFService\InformationService\bin\DataAccessLayer.dll
+C:\Users\Mel\Dropbox\HU\ISEM-551-50\HW5\HW5_WCFService\InformationService\bin\ModelsLayer.dll
+C:\Users\Mel\Dropbox\HU\ISEM-551-50\HW5\HW5_WCFService\InformationService\bin\DataAccessLayer.pdb
+C:\Users\Mel\Dropbox\HU\ISEM-551-50\HW5\HW5_WCFService\InformationService\bin\ModelsLayer.pdb

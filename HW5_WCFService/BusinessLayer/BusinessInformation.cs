@@ -18,7 +18,7 @@ namespace BusinessLayer
 
             DataSet dsGetEmpInfo = new DataSet();
 
-            dsGetEmpInfo = DataAccessInformation.GetEmpInfoUsingDBWithConfig();
+            dsGetEmpInfo = DataAccessInformation.GetEmpInfoUsingDBWithOutConfig();
 
             if (dsGetEmpInfo.Tables.Count>0)
             {
