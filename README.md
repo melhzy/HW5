@@ -17,3 +17,5 @@ Connection string:
 has to be added under Web Service layer's Web.config file. Directly reference Web.config connection string from Web Service layer in the main project, HW5_WCFSerice in this case, will not work because it returns null in configuration string in Data Access layer.
 
 Configuration values do not transfer between two different layers.
+
+You may run CreateDatabase_CreateTable_InsertRecords.sql in order to test the package because there is no dummy data entered in this package.
